@@ -91,4 +91,4 @@ const arPickers: PickersLocaleText = {
 
 export const DEFAULT_LOCALE = arPickers;
 
-export const ar = getPickersLocalization(arPickers);
+export const arAR = getPickersLocalization(arPickers);
